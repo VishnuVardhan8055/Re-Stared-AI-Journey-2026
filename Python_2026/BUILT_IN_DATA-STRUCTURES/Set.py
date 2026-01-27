@@ -21,6 +21,7 @@ print("Usine update function to  the data : ",mixed)
 set1 = {1, 2, 3, 4}
 set2 = {3, 4, 5, 6}
 
+
 print("Union     :", set1 | set2)      # {1,2,3,4,5,6}
 print("Intersect :", set1 & set2)      # {3,4}
 print("Diff1-2   :", set1 - set2)      # {1,2}
